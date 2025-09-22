@@ -170,3 +170,4 @@
 ### Источники информации
 - [ ] Примеры из UpTrade, Tradefor
 - [ ] Сайт школы 203.
+- [ ] Wordpress Kallyas theme
