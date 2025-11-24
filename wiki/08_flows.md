@@ -817,5 +817,4 @@ User Flow остается одним из фундаментальных инс
 [^user-flow]: [User Flow](https://usabilitylab.ru/uxmethods/user-flow/)
 [^persona]: [Персона Persona](https://usabilitylab.ru/uxmethods/persona/)
 [^users-scenarios]: [Пользовательские сценарии: что это такое, как и для чего их нужно строить](https://netology.ru/blog/users-scenarios)
-[^users-site-patterns]: [Как пользователи видят сайты: F- и Z- паттерны, диаграмма Гутенберга](https://netology.ru/blog/users-site-patterns)
-[^chto-takoe-diagonal-gutenberga]: [Диагональ Гутенберга](https://www.unisender.com/ru/glossary/chto-takoe-diagonal-gutenberga)
+
