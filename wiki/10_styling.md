@@ -891,15 +891,3 @@
 [^gotika-v-graficheskom-dizajne]: [Готика в графическом дизайне](https://blog.cramazing.ru/design/gotika-v-graficheskom-dizajne/)
 
 [^haj-tek-v-graficheskom-dizajne]: [Хай-тек в графическом дизайне](https://blog.cramazing.ru/design/haj-tek-v-graficheskom-dizajne/)
-
-- [UI/UX тренды в 2025: угрожает ли ИИ будущему дизайнеров и какие визуальные тренды нас удивят?](https://websecret.by/blog/obzory/uiux-trendy-v-2025-ugrozhaet-li-ii-budushemu-dizajnerov-i-kakie-vizualnye-trendy-nas-udivyat)
-- [Отсылки, ретро, доступность: вечные тренды дизайна на 2025 год](https://skillbox.ru/media/design/forever-trends-2025/)
-- [Дизайн-тренды 2025](https://habr.com/ru/articles/831382/)
-- [Тренды в графическом дизайне 2025: влияние разных сфер на их формирование](https://newbizservice.ru/media_graphic_design_trends)
-- [Тренды Графического Дизайна 2025 + [Видео Обзор]](https://merehead.com/ru/blog/graphic-design-trends-in-2025/)
-- [Горячие тренды графического дизайна на 2025 год](https://taptop.pro/blog/goryachie-trendy-graficheskogo-dizajna-na-2025-god)
-- [30 трендов в дизайне и сайтах на 2025-й год](https://habr.com/ru/articles/861696/)
-- [Тренды в графическом дизайне на 2025 год](https://www.in-aim.ru/blog/trendy-v-graficheskom-dizayne/)
-- [Тренды в графическом дизайне на 2025 год: что нужно знать?](https://vikirich.com/post?id=trends_2025)
-- [Тренды в графическом дизайне в 2025 году](https://dsgners.ru/artjom-obodzinskiy/8746-trendyi-v-graficheskom-dizayne-v-2025-godu)
-- [10 трендов графического дизайна, на которые стоит обратить внимание в 2025 году](https://designer.kz/2024/12/10-graphic-design-trends-to-pay-attention-to-in-2025/)
